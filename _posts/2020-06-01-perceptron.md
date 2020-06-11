@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Project 1: Understanding the concept of A/B testing"
+date: 2020-06-01
+tags: [A/B test, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "A/B test, Data Science, Messy Data"
 mathjax: "true"
 ---
 
