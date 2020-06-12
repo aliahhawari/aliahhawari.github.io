@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Wrangling Projects"
-    url: /data-wrangling/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+  - title: "A/B Testing Projects"
+    url: /AB_tests/
+  - title: "Another project"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
