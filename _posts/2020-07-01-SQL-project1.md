@@ -1,10 +1,10 @@
 ---
-title: 'Querying with SQL magic'
+title: "Querying with SQL Magic"
 date: 2020-07-01
-tags:[SQL, data science, SQL magic]
+tags: [SQL, python, SQL Magic, Data Science]
 header:
-	image:"/images/perceptron/percept.jpg"
-excerpt: "SQL, Data Science, SQL magic"
+  image: "/images/perceptron/percept.jpg"
+excerpt: "SQL, Python, SQL Magic, Data Science"
 mathjax: "true"
 ---
 
