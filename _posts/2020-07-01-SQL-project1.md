@@ -1,0 +1,32 @@
+---
+title: 'Querying with SQL magic'
+date: 2020-07-01
+tags:[SQL, data science, SQL magic]
+header:
+	image:"/images/perceptron/percept.jpg"
+excerpt: "SQL, Data Science, SQL magic"
+mathjax: "true"
+---
+
+# Database querying with SQL magic
+
+SQL is one of the querying languages that I am enjoying learning. I am still a beginner at this and I thought I would use this space to practice and develop my skills. 
+
+In this example, I will be using the XXX dataset. This dataset contains information about air quality data from around the world.
+
+
+"`python
+def HelloWorld(): 
+    print('Hello World!')
+    
+print(HelloWorld())
+"`
+
+    Hello World!
+    None
+
+
+
+"`python
+
+"`
