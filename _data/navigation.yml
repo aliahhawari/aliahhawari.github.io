@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "A/B Testing Projects"
-    url: /AB_tests/
+  - title: "Projects"
+    url: /projects/
   - title: "Other project"
     url: /other_projects/
   #- title: "Sample Posts"
