@@ -14,19 +14,17 @@ SQL is one of the querying languages that I am enjoying learning. I am still a b
 
 In this example, I will be using the XXX dataset. This dataset contains information about air quality data from around the world.
 
-
-"`python
+```python
 def HelloWorld(): 
     print('Hello World!')
     
 print(HelloWorld())
-"`
+```
 
     Hello World!
     None
 
 
+```python
 
-"`python
-
-"`
+```
