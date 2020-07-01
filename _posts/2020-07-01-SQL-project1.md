@@ -6,6 +6,7 @@ header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "SQL, Python, SQL Magic, Data Science"
 mathjax: "true"
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 # Database querying with SQL magic
