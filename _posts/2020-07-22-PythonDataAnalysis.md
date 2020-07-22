@@ -1,11 +1,12 @@
 ---
-title: 'Basic Data Analysis using Python'
-date: 2020-07-22
-tags:[Python, Data Analysis]
+title: "Basic Data Analysis using Python"
+date: 2020-07-01
+tags: [Python, Data Analysis, Data Wrangling]
 header:
-	image:"/images/perceptron/percept.jpg"
+  image: "/images/perceptron/percept.jpg"
 excerpt: "Python, Data Analysis, Data Wrangling"
 mathjax: "true"
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 <h1 align=center><font size = 5>Basic Data Analysis with Python</font></h1>
