@@ -1,10 +1,10 @@
 ---
 title: "Basic Data Analysis using Python"
 date: 2020-07-22
-tags: [SQL, python, SQL Magic, Data Science]
+tags: [Python, Data Analysis, Data Wrangling]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "SQL, Python, SQL Magic, Data Science"
+excerpt: "Python, Data Analysis, Data Wrangling"
 mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
 ---
