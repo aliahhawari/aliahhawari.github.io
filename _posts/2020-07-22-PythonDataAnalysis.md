@@ -3,7 +3,7 @@ title: "Basic Data Analysis using Python"
 date: 2020-07-01
 tags: [Python, Data Analysis, Data Wrangling]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/blue-houses.jpg"
 excerpt: "Python, Data Analysis, Data Wrangling"
 mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
