@@ -9,7 +9,7 @@ mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
 ---
 
-Here are my notes from the 'Data Analysis with Python' assignment I completed as part of my journey in Coursera's IBM Data Science Professional Certificate. So, these are the knowledge I need to know how to use with Python in order to perform basic data analysis of my data.
+Here are my notes from the 'Data Analysis with Python' assignment I completed as part of my journey in Coursera's IBM Data Science Professional Certificate. 
 
 ## The dataset:  House Sales in King County, USA
 
