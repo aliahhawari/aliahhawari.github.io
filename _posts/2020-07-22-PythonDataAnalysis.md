@@ -1,5 +1,5 @@
 ---
-title: "Basic Data Analysis using Python"
+title: "PythonDataAnalysis"
 date: 2020-07-22
 tags:[Python, Data Analysis, Data Wrangling]
 header:
