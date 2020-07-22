@@ -9,9 +9,9 @@ mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
 ---
 
-#Basic Data Analysis with Python
+# Basic Data Analysis with Python
 
-Here are my notes from the 'Data Analysis with Python' assignment I completed as part of my journey in Coursera's IBM Data Science Professional Certificate. I am showcasing them here to help me recall what I have learned. So, these are the knowledge I need to know how to use with Python in order to perform basic data analysis of my data.
+Here are my notes from the 'Data Analysis with Python' assignment I completed as part of my journey in Coursera's IBM Data Science Professional Certificate. So, these are the knowledge I need to know how to use with Python in order to perform basic data analysis of my data.
 
 ## The dataset:  House Sales in King County, USA
 
