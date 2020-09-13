@@ -6,12 +6,10 @@ excerpt: "KNN, CLassifier, Machine Learning"
 mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
 ---
+by Aliah H.
+![pink-ribbon.png](attachment:/images/KNN_images/pink-ribbon.png)
 
 # Is the cancer benign or malignant?
-by Aliah H.
-
-![png](/images/KNN_images/pink-ribbon.png)
-
 
 ```python
 import pandas as pd
