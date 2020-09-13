@@ -8,7 +8,6 @@ categories: CATEGORY-1 CATEGORY-2
 ---
 by Aliah H.
 
-
 <a img src = "/images/KNN_images/pink-ribbon.png " width = 400, align = "center"></a>
 
 <h1 align=center><font size = 5> Is the cancer benign or malignant?</font></h1>
