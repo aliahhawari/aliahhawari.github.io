@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "CV"
+    url: /projects/
   #- title: "Other project"
   # url: /other_projects/
   #- title: "Sample Posts"
