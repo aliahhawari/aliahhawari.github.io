@@ -6,13 +6,11 @@ excerpt: "KNN, CLassifier, Machine Learning"
 mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Summary of steps"
 toc_icon: "cog"
 ---
 by Aliah H.
  
-![png](/images/KNN_images/pink-ribbon.png) 
-
 <h1 align=center><font size = 5> Is the cancer benign or malignant?</font></h1>
 
 ```python
