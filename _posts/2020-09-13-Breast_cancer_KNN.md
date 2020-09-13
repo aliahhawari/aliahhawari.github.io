@@ -10,7 +10,7 @@ categories: CATEGORY-1 CATEGORY-2
 # Is the cancer benign or malignant?
 by Aliah H.
 
-![png](“/images/KNN_images/pink-ribbon.png")
+![png](/images/KNN_images/pink-ribbon.png)
 
 
 ```python
