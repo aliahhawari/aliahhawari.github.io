@@ -2,16 +2,15 @@
 title: "Building breast cancer diagnostic classifier with KNN"
 date: 2020-07-13
 tags: [KNN, Classifier, Machine Learning]
-header:
-  image: "/images/KNN_images/pink-ribbon.png"
 excerpt: "KNN, CLassifier, Machine Learning"
 mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
 ---
 
 # Is the cancer benign or malignant?
-
 by Aliah H.
+
+![png](“/images/KNN_images/pink-ribbon.png")
 
 
 ```python
