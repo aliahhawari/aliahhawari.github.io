@@ -5,6 +5,9 @@ tags: [KNN, Classifier, Machine Learning]
 excerpt: "KNN, CLassifier, Machine Learning"
 mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 by Aliah H.
  
