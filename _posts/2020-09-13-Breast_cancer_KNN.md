@@ -7,9 +7,8 @@ mathjax: "true"
 categories: CATEGORY-1 CATEGORY-2
 ---
 by Aliah H.
-<div>
+
 <img src=/images/KNN_images/pink-ribbon.png width="500">
-</div>
 
 # Is the cancer benign or malignant?
 
