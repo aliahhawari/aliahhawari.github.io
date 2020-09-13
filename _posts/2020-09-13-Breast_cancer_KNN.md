@@ -8,11 +8,9 @@ categories: CATEGORY-1 CATEGORY-2
 ---
 by Aliah H.
  
-<div>
-<a img src = "/images/KNN_images/pink-ribbon.png " width = 400, align = "center"></a>
+![png](/images/KNN_images/pink-ribbon.png) 
 
 <h1 align=center><font size = 5> Is the cancer benign or malignant?</font></h1>
-</div>
 
 ```python
 import pandas as pd
