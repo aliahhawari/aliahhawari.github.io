@@ -9,13 +9,13 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A collection of data science and computational biology projects.<br />
+  Welcome to my Data Science portfolio<br />
   <small><a href="https://aliahhawari.github.io/projects/">See More</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "Project 1"
+    title: "Building KNN classifier"
+    excerpt: "Using KNN to build a classifier to predict the species of Iris based on the flower features"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
