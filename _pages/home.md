@@ -14,16 +14,16 @@ excerpt: >
 feature_row:
   - image_path: /images/flowers-iris.png
     alt: "Project 1"
-    title: "Building KNN classifier"
+    title: "Predicting species of Iris flowers based on its petal and sepal measurements"
     excerpt: "Using KNN to build a classifier to predict the species of Iris based on the flower features"
     url: "/posts/2020-09-13-KNN_iris.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /images/pink-ribbon.png
+    alt: "Project 2"
+    title: "Is the tumor benign or malignant?"
+    excerpt: "Building a KNN classifier from Winconsin breast cancer data."
+    url: "/posts/2020-09-13-Breast_cancer_KNN.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
