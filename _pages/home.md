@@ -10,7 +10,7 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   Welcome to my Data Science portfolio<br />
-  <small><a href="https://aliahhawari.github.io/projects/">See More</a></small>
+  <small><a href="https://aliahhawari.github.io/projects/">See full list of my projects here</a></small>
 feature_row:
   - image_path: /images/flowers-iris.png
     alt: "Project 1"
