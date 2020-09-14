@@ -12,11 +12,11 @@ excerpt: >
   Welcome to my Data Science portfolio<br />
   <small><a href="https://aliahhawari.github.io/projects/">See More</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /images/flowers-iris.png
     alt: "Project 1"
     title: "Building KNN classifier"
     excerpt: "Using KNN to build a classifier to predict the species of Iris based on the flower features"
-    url: "/docs/configuration/"
+    url: "/_posts/2020-09-13-KNN_iris.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
