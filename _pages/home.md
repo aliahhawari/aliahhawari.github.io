@@ -16,7 +16,7 @@ feature_row:
     alt: "Project 1"
     title: "Building KNN classifier"
     excerpt: "Using KNN to build a classifier to predict the species of Iris based on the flower features"
-    url: "/_posts/2020-09-13-KNN_iris.md"
+    url: "/posts/2020-09-13-KNN_iris.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
