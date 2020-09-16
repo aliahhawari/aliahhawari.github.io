@@ -1,7 +1,6 @@
 ---
 layout: splash
 permalink: /projects2/
-hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: "/images/technologybanner.jpg"
