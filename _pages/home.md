@@ -16,14 +16,14 @@ feature_row:
     alt: "Project 1"
     title: "Predicting species of Iris flowers based on its petal and sepal measurements"
     excerpt: "Using KNN to build a classifier to predict the species of Iris based on the flower features"
-    url: "/posts/2020-09-13-KNN_iris.md"
+    url: "/_posts/2020-09-13-KNN_iris.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
     alt: "Project 2"
     title: "Is the tumor benign or malignant?"
     excerpt: "Building a KNN classifier from Winconsin breast cancer data."
-    url: "/posts/2020-09-13-Breast_cancer_KNN.md"
+    url: "/_posts/2020-09-13-Breast_cancer_KNN.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
