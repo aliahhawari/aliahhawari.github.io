@@ -265,7 +265,7 @@ defaults:
   # projects2
   - scope:
       path: ""
-      type: category
+      type: categories
     values:
       layout: archive
       author_profile: true
