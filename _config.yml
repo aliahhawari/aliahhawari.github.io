@@ -264,7 +264,7 @@ defaults:
    
   # projects2
   - scope:
-      path: ""
+      path: "/_projects/"
       type: categories
     values:
       layout: archive
