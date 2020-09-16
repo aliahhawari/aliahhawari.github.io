@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: category
 permalink: /projects/
 title: "Data Science Projects"
 header:
