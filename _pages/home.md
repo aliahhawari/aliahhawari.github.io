@@ -12,7 +12,7 @@ excerpt: >
   Welcome to my Data Science portfolio<br />
   <small><a href="https://aliahhawari.github.io/projects/">See full list of my projects here</a></small>
 feature_row:
-  - image_path: /images/flowers-iris.png
+  - image_path: /images/KNN_images/flower-iris2.jpg
     alt: "Project 1"
     title: "Predicting species of Iris flowers based on its petal and sepal measurements"
     excerpt: "Using KNN to build a classifier to predict the species of Iris based on the flower features"
