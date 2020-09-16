@@ -261,4 +261,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+   # _projects2 
+	  - scope:
+	      path: ""
+	      type: category
+	    values:
+	      layout: archive
+	      author_profile: true
+	      taxonomy: foo #category name
+	      entries_layout: grid
+
     
