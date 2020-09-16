@@ -1,0 +1,39 @@
+---
+layout: splash
+permalink: /projects2/
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: "/images/technologybanner.jpg"
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  My Projects<br />
+  <small><a href="https://aliahhawari.github.io/projects/">See full list of my projects here</a></small>
+feature_row:
+  - image_path: /images/KNN_images/flower-iris2.jpg
+    alt: "Project 1"
+    title: "Foo"
+    excerpt: "Using KNN to build a classifier to predict the species of Iris based on the flower features"
+    url: "https://aliahhawari.github.io/projects/foo/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /images/KNN_images/pink-ribbon2.jpg
+    alt: "Project 2"
+    title: "Is the tumor benign or malignant?"
+    excerpt: "Building a KNN classifier from Winconsin breast cancer data."
+    url: "https://aliahhawari.github.io/category-1/category-2/Breast_cancer_KNN/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+---
+
+
+{% include feature_row %}
