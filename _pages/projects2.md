@@ -18,7 +18,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Machine Learning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://aliahhawari.github.io/foo/"
+    url: "https://aliahhawari.github.io/machinelearning/"
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
