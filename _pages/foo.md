@@ -1,7 +1,7 @@
 ---
 title: Foo
 layout: categories
-permalink: /projects/foo/
+permalink: /foo/
 taxonomy: foo
 ---
 
