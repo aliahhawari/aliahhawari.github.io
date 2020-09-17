@@ -2,9 +2,9 @@
 title: "Building breast cancer diagnostic classifier with KNN"
 date: 2020-07-13
 tags: [KNN, Classifier, Machine Learning]
-excerpt: "KNN, CLassifier, Machine Learning"
+excerpt: "Using KNN to predict the classes of different Iris flowers."
 mathjax: "true"
-categories: CATEGORY-1 CATEGORY-2
+categories: machinelearning
 toc: true
 toc_label: "Summary of steps"
 toc_icon: "cog"
