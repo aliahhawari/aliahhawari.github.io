@@ -6,3 +6,5 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 ---
+
+Here's a collection of my projects
