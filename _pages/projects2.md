@@ -27,7 +27,7 @@ feature_row:
     title: "Data Wrangling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://aliahhawari.github.io/foo/"
-    btn_label: "Read More"
+    btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
