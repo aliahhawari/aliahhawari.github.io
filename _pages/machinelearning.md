@@ -14,16 +14,15 @@ excerpt: "A collection of various data science projects I have undertaken."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Iris project"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: images/KNN_images/flowers-iris2.jpg
+    alt: "Iris project"
+    title: "Predicting the species of Iris flowers"
+    excerpt: "Using a KNN classifier, the species of Iris could be predicted based on its sepal and petal measurements"
     url: "https://aliahhawari.github.io/machinelearning/KNN_iris"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
+  - image_path: /images/KNN_images/pink-ribbon2.jpg
+    alt: "Breast cancer project"
     title: "Is the tumour benign or malignant?"
     excerpt: "Classifying breast cancer data of patients from Winsconsin using KNN."
     url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN"
