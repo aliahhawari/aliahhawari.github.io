@@ -4,12 +4,11 @@ layout: splash
 permalink: /machinelearning/
 header:
   overlay_color: "#012"
-  overlay_filter: "0.5"
+  overlay_filter: "0.25"
   overlay_image: /images/bokeh.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "A collection of various data science projects I have undertaken."
 feature_row:
   - image_path: images/KNN_images/flower-iris2.jpg
