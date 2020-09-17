@@ -8,6 +8,8 @@ main:
     url: /CV/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Projects2"
+    url: /projects2/
   #- title: "Other project"
   # url: /other_projects/
   #- title: "Sample Posts"
