@@ -14,16 +14,16 @@ excerpt: >
 feature_row:
   - image_path: /images/KNN_images/flower-iris2.jpg
     alt: "Project 1"
-    title: "Predicting species of Iris flowers based on its petal and sepal measurements"
+    title: "Predicting species of Iris flowers using KNN classifier"
     excerpt: "Using KNN to build a classifier to predict the species of Iris based on the flower features"
-    url: "https://aliahhawari.github.io/category-1/KNN_iris/"
+    url: "https://aliahhawari.github.io/machinelearning/KNN_iris/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
     alt: "Project 2"
     title: "Is the tumor benign or malignant?"
     excerpt: "Building a KNN classifier from Winconsin breast cancer data."
-    url: "https://aliahhawari.github.io/category-1/category-2/Breast_cancer_KNN/"
+    url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
