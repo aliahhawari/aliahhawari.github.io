@@ -5,7 +5,7 @@ permalink: /machinelearning/
 header:
   overlay_color: "#012"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /images/bokeh.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
