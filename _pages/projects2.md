@@ -14,8 +14,8 @@ excerpt: "A collection of various data science projects I have undertaken."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - image_path: images/machinelearning.png
+    alt: "Machinelearning"
     title: "Machine Learning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://aliahhawari.github.io/machinelearning/"
