@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "A collection of various data science projects I have undertaken."
+excerpt: "Regressions, Clustering, Classifications and more."
 feature_row:
   - image_path: images/KNN_images/flower-iris2.jpg
     alt: "Iris project"
