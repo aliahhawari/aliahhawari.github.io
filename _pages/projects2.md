@@ -21,15 +21,15 @@ feature_row:
     url: "https://aliahhawari.github.io/machinelearning/"
     btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
+  - image_path: /images/teaser_images/dashboard.jpg
+    image_caption: ""
+    alt: "Exploratory data analysis"
     title: "Data Wrangling"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Exploratiry data analysis projects"
     url: "https://aliahhawari.github.io/foo/"
     btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /images/teaser_images/library.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
