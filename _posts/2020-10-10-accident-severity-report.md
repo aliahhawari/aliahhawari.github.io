@@ -63,19 +63,6 @@ The balanced dataset was split into training and testing datasets. Both models w
 For this step, I did some simple exploration to identify missing values and the datatypes of the attributes. The raw data has 38 attributes and 19,4673 entries. There were 6 attributes with more than 50% missing values in the dataset. These attributes were dropped from the dataset. For the remaining attributes, only entries with missing values were ddropped. Majority of the remaining attributes are numerical whereas 7 attributes were found numerical.
 A summary is shown below: 
 
-
-```python
-import pandas as pd
-
-df_summary = pd.DataFrame({'Count': [194673, 38, 6, 7]},
-                  index=['# of Entries', '# of Attributes', '# of columns with >50% missing values', '# of Categorical attributes'])
-
-df_summary
-```
-
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -139,7 +126,7 @@ Additionally, columns that are not contributing or too complex are also removed.
 ## Data Preparation
 ### Target label
 
-The target label is 'SEVERITYCODE/' and the description is listed in 'SEVERITYDESC'.  
+The target label is 'SEVERITYCODE' and the description is listed in 'SEVERITYDESC'.  
 
 The 'SEVERITYCODE' attribute lists the code that corresponds to the severity of the collision: 
 * 3  - fatality
@@ -147,12 +134,6 @@ The 'SEVERITYCODE' attribute lists the code that corresponds to the severity of 
 * 2  - injury
 * 1  - prop damage
 * 0  - unknown
-
-
-```python
-df['SEVERITYCODE'].value_counts().to_frame()
-```
-
 
 
 
@@ -195,39 +176,14 @@ df['SEVERITYCODE'].value_counts().to_frame()
 The data is not balanced. 
 
 
-```python
-df['SEVERITYCODE'].value_counts().plot(kind='bar')
-```
-
-
-
-
-    <matplotlib.axes._subplots.AxesSubplot at 0x11ff18cd0>
-
-
-
-
-![png](output_18_1.png)
+![png](/images/Capstone/output_18_1.png)
 
 
 ### Balancing the dataset by upsampling minority class
 
 The data was balanced by upsampling the minority class 2. This increased the category to 1300634 entries.
 
-
-```python
-df_upsampled['SEVERITYCODE'].value_counts().plot(kind='bar')
-```
-
-
-
-
-    <matplotlib.axes._subplots.AxesSubplot at 0x1246ffe50>
-
-
-
-
-![png](output_21_1.png)
+![png](/images/Capstone/output_21_1.png)
 
 
 ### Setting up the dataset
@@ -235,12 +191,6 @@ df_upsampled['SEVERITYCODE'].value_counts().plot(kind='bar')
 Some preprocessing to generate feature set, X. All categorical data from the upsampled dataframe was converted into numerical using LabelEncoder. For 'UNDERINFL' attribute, the values were standardized using a replace method. The dataset was split into training and testing dataset with a 70:30 ratio. 
 
 'UNDERINFL' was categorised into 4 different values that was redundant.
-
-
-```python
-df_upsampled['UNDERINFL'].value_counts().to_frame()
-```
-
 
 
 
@@ -290,14 +240,6 @@ df_upsampled['UNDERINFL'].value_counts().to_frame()
 
 'N' and 'Y' was replaced to '0' and '1' respectively.
 
-
-```python
-df_upsampled['UNDERINFL'].value_counts().to_frame()
-```
-
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -335,13 +277,6 @@ df_upsampled['UNDERINFL'].value_counts().to_frame()
 
 
 Attributes with categorical datatype is shown in the table below:
-
-
-```python
-cat_df_upsampled.head()
-```
-
-
 
 
 <div>
@@ -425,22 +360,6 @@ cat_df_upsampled.head()
   </tbody>
 </table>
 </div>
-
-
-
-
-```python
-
-X_df = pd.DataFrame(index=['INCKEY', 'COLDETKEY', 'ADDRTYPE',
-       'COLLISIONTYPE', 'PERSONCOUNT', 'PEDCOUNT', 'PEDCYLCOUNT', 'VEHCOUNT',
-       'SDOT_COLCODE', 'UNDERINFL', 'WEATHER', 'ROADCOND', 'LIGHTCOND',
-       'ST_COLCODE', 'SEGLANEKEY', 'CROSSWALKKEY'])
-
-X_df
-
-
-```
-
 
 
 
