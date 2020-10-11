@@ -221,19 +221,6 @@ Attributes with categorical datatype is shown in the table below:
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -297,81 +284,6 @@ Attributes with categorical datatype is shown in the table below:
       <td>Wet</td>
       <td>Daylight</td>
       <td>10</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>INCKEY</th>
-    </tr>
-    <tr>
-      <th>COLDETKEY</th>
-    </tr>
-    <tr>
-      <th>ADDRTYPE</th>
-    </tr>
-    <tr>
-      <th>COLLISIONTYPE</th>
-    </tr>
-    <tr>
-      <th>PERSONCOUNT</th>
-    </tr>
-    <tr>
-      <th>PEDCOUNT</th>
-    </tr>
-    <tr>
-      <th>PEDCYLCOUNT</th>
-    </tr>
-    <tr>
-      <th>VEHCOUNT</th>
-    </tr>
-    <tr>
-      <th>SDOT_COLCODE</th>
-    </tr>
-    <tr>
-      <th>UNDERINFL</th>
-    </tr>
-    <tr>
-      <th>WEATHER</th>
-    </tr>
-    <tr>
-      <th>ROADCOND</th>
-    </tr>
-    <tr>
-      <th>LIGHTCOND</th>
-    </tr>
-    <tr>
-      <th>ST_COLCODE</th>
-    </tr>
-    <tr>
-      <th>SEGLANEKEY</th>
-    </tr>
-    <tr>
-      <th>CROSSWALKKEY</th>
     </tr>
   </tbody>
 </table>
