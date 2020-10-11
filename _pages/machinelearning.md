@@ -27,8 +27,10 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /images/LR/shopping-mall.jpg
     title: "Predicting customer churn"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Logistic regression model to predict customer behaviour."
     url:"https://aliahhawari.github.io/machinelearning/TelcoCC_LR01/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
