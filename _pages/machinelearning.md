@@ -25,9 +25,10 @@ feature_row:
     url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+  - image_path: /images/LR_images/shopping_mall.jpg
+    title: "Predicting customer churn"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url:"https://aliahhawari.github.io/machinelearning/TelcoCC_LR01/"
 feature_row2:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
