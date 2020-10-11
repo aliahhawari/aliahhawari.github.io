@@ -2,17 +2,8 @@
 title: "Projects"
 layout: splash
 permalink: /projects/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
-  overlay_image: /images/projects.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "My collection of various data science projects."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'My collection of projects`type="center"`'
 feature_row:
   - image_path: images/machinelearning.png
     alt: "Machinelearning"
