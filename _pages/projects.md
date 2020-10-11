@@ -8,7 +8,7 @@ feature_row:
   - image_path: images/machinelearning.png
     alt: "Machinelearning"
     title: "Machine Learning"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Regressions, classifications and more"
     url: "https://aliahhawari.github.io/machinelearning/"
     btn_label: "See More"
     btn_class: "btn--primary"
@@ -16,7 +16,7 @@ feature_row:
     image_caption: ""
     alt: "Exploratory data analysis"
     title: "Data Wrangling"
-    excerpt: "Exploratiry data analysis projects"
+    excerpt: "Exploratory data analysis projects"
     url: "https://aliahhawari.github.io/foo/"
     btn_label: "See More"
     btn_class: "btn--primary"
