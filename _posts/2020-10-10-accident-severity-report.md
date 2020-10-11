@@ -35,7 +35,6 @@ In this project, we will try to predict the severity of an accident based on roa
 The dataset used for this project is based on reported car collisions in Seattle, Washington from 2004 to 2020. The dataset lists the severity of each car accidents along with the time and conditions under which each accident occurred. There are 38 attributes with 194673 entries included in the raw dataset. There is also a metadata document provided along with the dataset that describes each attribute.  
 
 
-
 # Methodology
 
 **Machine learning method**
@@ -448,6 +447,9 @@ A decision tree was built using the DecisionTreeClassifier function from sklearn
 
 The trained model was then used to predict collision severity using the testing dataset. 
 
+![png](/images/Capstone/output_69_0.png)
+
+
 ### Evaluation
 
 The accuracy score for the tree was 0.73, which was good. Top 3 factors predicting severity is the number of pedestrian, number of cyclists and number of individuals likely to involve in the collision. 
@@ -459,6 +461,9 @@ The accuracy score for the tree was 0.73, which was good. Top 3 factors predicti
 A KNN model was built using the KNeighborsClassifier function from sklearn's library. The accuracy of the model was tested against a range of number of k to identify the best k. The best accuracy was 0.8 with k=1. 
 
 ### Evaluation
+
+![png](/images/Capstone/output_71_1.png)
+
 
 The accuracy score for the best KNN model was 0.80 and the F1 score was 0.78 and 0.82 for predicting 'Property Damage only' and 'Injury' collisions. 
 
