@@ -25,7 +25,7 @@ feature_row:
     url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/LR_images/shopping_mall.jpg
+  - image_path: /images/LR/shopping-mall.jpg
     title: "Predicting customer churn"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url:"https://aliahhawari.github.io/machinelearning/TelcoCC_LR01/"
