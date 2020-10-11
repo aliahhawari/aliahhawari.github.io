@@ -28,7 +28,7 @@ feature_row:
   - image_path: /images/LR/shopping-mall.jpg
     title: "Predicting customer churn"
     excerpt: "Logistic regression model to predict customer behaviour."
-    url:"https://aliahhawari.github.io/machinelearning/TelcoCC_LR01/"
+    url: "https://aliahhawari.github.io/machinelearning/TelcoCC_LR01/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
