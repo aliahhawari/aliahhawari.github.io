@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /recentposts/
-title: "Recent posts"
+title: "Posts"
 author_profile: true
 ---
 
