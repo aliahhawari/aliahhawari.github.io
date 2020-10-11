@@ -10,7 +10,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-## Applied Data Science Capstone by IBM/Coursera
+# Applied Data Science Capstone by IBM/Coursera
 by Aliah H. 
 
 
