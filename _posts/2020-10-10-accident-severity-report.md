@@ -294,7 +294,7 @@ A decision tree was built using the DecisionTreeClassifier function from sklearn
 
 The trained model was then used to predict collision severity using the testing dataset. 
 
-![png](/images/Capstone/output_69_0.png)
+![png](/images/Capstone/output_66_0.png)
 
 
 ### Evaluation
@@ -306,6 +306,8 @@ The accuracy score for the tree was 0.73, which was good. Top 3 factors predicti
 ### Modelling
 
 A KNN model was built using the KNeighborsClassifier function from sklearn's library. The accuracy of the model was tested against a range of number of k to identify the best k. The best accuracy was 0.8 with k=1. 
+
+![png](/images/Capstone/output_69_0.png)
 
 ### Evaluation
 
