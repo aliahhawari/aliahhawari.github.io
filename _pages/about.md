@@ -3,9 +3,13 @@ title: "About"
 permalink: /about/
 ---
 
-I am an experienced postdoctoral research analyst, with a passion in data science, demonstrated with degrees in Computational Biology and Bioinformatics. A portfolio of transferable Technical & IT strengths evidenced with over four years’ university interdisciplinary research and teaching experience in an academic setting. 
+I am a postdoctoral researcher with a passion in data science, and extensive background in Computational Biology and Bioinformatics. 
 
-I aspire to help heads of data science in Pharma, Biotech and Agri-Industries with insights, strategy for growth and trends in markets by data analysis and interpretation.
+I have a portfolio of transferable Technical & IT strengths evidenced with over four years’ university interdisciplinary research and teaching experience in an academic setting. 
 
-I love working on projects together, so feel free to reach out for collaboration!
+In my current role, I build metabolic models for a living. I use these models to gain an insight into complex metabolic networks to understand them to aid efforts in metabolic engineering. Check out my LinkedIn to know more of my Computational Biology projects and publications. 
+
+I am also into building machine learning models and working with a wider range of data to further expand my technical portfolio. And this is the place where I'm showcasing them.
+
+Feel free to peruse and connect with me on LinkedIn.
 
