@@ -12,7 +12,7 @@ feature_row:
     alt: "Data wrangling shortcuts"
     title: "Shortcuts to prep your data"
     excerpt: "A compilation of shortcuts for data wrangling process"
-    url: "https://aliahhawari.github.io/datawrangling/KNN_iris"
+    url: "https://aliahhawari.github.io/datawrangling/ExploratoryDataAnalysis/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
