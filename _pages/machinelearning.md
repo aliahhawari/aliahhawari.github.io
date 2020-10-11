@@ -25,7 +25,7 @@ feature_row:
     url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/LR/shopping-mall.jpg
+  - image_path: /images/LR/CC01/bar.jpg
     title: "Predicting customer churn"
     excerpt: "Logistic regression model to predict customer behaviour."
     url: "https://aliahhawari.github.io/machinelearning/TelcoCC_LR01/"
