@@ -161,23 +161,7 @@ The data was balanced by upsampling the minority class 2. This increased the cat
 Some preprocessing to generate feature set, X. All categorical data from the upsampled dataframe was converted into numerical using LabelEncoder. For 'UNDERINFL' attribute, the values were standardized using a replace method. The dataset was split into training and testing dataset with a 70:30 ratio. 
 
 'UNDERINFL' was categorised into 4 different values that was redundant.
-
-
-
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -211,19 +195,6 @@ Some preprocessing to generate feature set, X. All categorical data from the ups
 'N' and 'Y' was replaced to '0' and '1' respectively.
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
