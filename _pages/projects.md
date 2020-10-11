@@ -3,7 +3,7 @@ title: "Projects"
 layout: splash
 permalink: /projects/
 intro: 
-  - title: 'My collection of projects'`type="center"`'
+  - title: 'My collection of projects'
 feature_row:
   - image_path: images/machinelearning.png
     alt: "Machinelearning"
