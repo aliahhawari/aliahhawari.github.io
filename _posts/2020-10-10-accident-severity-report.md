@@ -6,20 +6,13 @@ excerpt: "Predicting collision severity using classifiers"
 mathjax: "true"
 categories: machinelearning
 toc: true
-toc_label: "Summary of steps"
+toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-by Aliah H.
- 
-<h1 align=center><font size = 5> Capstone Project- Car accident severity report</font></h1>
 
 ## Applied Data Science Capstone by IBM/Coursera
 by Aliah H. 
 
-## Table of Contents
-* [Introduction: Business Problem](#introduction)
-* [Data](#data)
-* [References](#references)
 
 # Introduction / Business Problem
 
