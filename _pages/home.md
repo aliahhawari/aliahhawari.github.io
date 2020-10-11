@@ -26,11 +26,11 @@ feature_row:
     url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/teaser_images/workinprogress.jpg
-    alt: "Project 3"
-    title: "Work in progress"
-    excerpt: "Something will be here!"
-    url: "/docs/license/"
+  - image_path: /images/DW_images/path-shortcut.jpg
+    alt: "Shortcuts!"
+    title: "Data Wrangling shortcuts"
+    excerpt: "A compilation of codes often used for data wrangling phase"
+    url: "https://aliahhawari.github.io/datawrangling/ExploratoryDataAnalysis/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
