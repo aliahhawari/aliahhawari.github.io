@@ -6,16 +6,13 @@ header:
   overlay_color: "#012"
   overlay_filter: "0.25"
   overlay_image: /images/bokeh.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Data prep"
 feature_row:
-  - image_path: images/KNN_images/flower-iris2.jpg
-    alt: "Iris project"
-    title: "Predicting the species of Iris flowers"
-    excerpt: "Using a KNN classifier, the species of Iris could be predicted based on its sepal and petal measurements"
-    url: "https://aliahhawari.github.io/machinelearning/KNN_iris"
+  - image_path: images/DW_images/path-shortcut.jpg
+    alt: "Data wrangling shortcuts"
+    title: "Shortcuts to prep your data"
+    excerpt: "A compilation of shortcuts for data wrangling process"
+    url: "https://aliahhawari.github.io/datawrangling/KNN_iris"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
