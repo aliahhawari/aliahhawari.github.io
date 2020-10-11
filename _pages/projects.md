@@ -17,11 +17,11 @@ feature_row:
     alt: "Exploratory data analysis"
     title: "Data Wrangling"
     excerpt: "Exploratory data analysis projects"
-    url: "https://aliahhawari.github.io/foo/"
+    url: "https://aliahhawari.github.io/datawrangling/"
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /images/teaser_images/library.jpg
-    title: "Placeholder 3"
+    title: "something"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
