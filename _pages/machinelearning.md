@@ -11,11 +11,11 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Regressions, Clustering, Classifications and more."
 feature_row:
-  - image_path: images/KNN_images/flower-iris2.jpg
-    alt: "Iris project"
-    title: "Predicting the species of Iris flowers"
-    excerpt: "Using a KNN classifier, the species of Iris could be predicted based on its sepal and petal measurements"
-    url: "https://aliahhawari.github.io/machinelearning/KNN_iris"
+  - image_path: images/LR/house-1920.jpg
+    alt: "House price"
+    title: "Predicting house prices using regressions"
+    excerpt: "Tools used: Python| Category: Machine Learning | Models: Linear and Ridge regression"
+    url: "https://aliahhawari.github.io/machinelearning/PythonDataAnalysis"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
@@ -32,12 +32,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Machine Learning"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://aliahhawari.github.io/foo/"
-    btn_label: "See More"
+  - image_path: images/KNN_images/flower-iris2.jpg
+    alt: "Iris project"
+    title: "Predicting the species of Iris flowers"
+    excerpt: "Tools used: Python | Category: Machine Learning | Model: KNN Classifier"
+    url: "https://aliahhawari.github.io/machinelearning/KNN_iris"
+    btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
