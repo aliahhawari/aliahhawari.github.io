@@ -1,12 +1,12 @@
 ---
-title: "Basic Data Analysis using Python"
+title: "Predicting house prices with regressions"
 date: 2020-07-22
-tags: [Python, Data Analysis, Data Wrangling]
+tags: [linear regression, ridge regression, Python]
 header:
   image: "/images/winter-village.png"
-excerpt: "Python, Data Analysis, Data Wrangling"
+excerpt: "Tools used: Python | Category: Machine Learning | Year: 2020"
 mathjax: "true"
-categories: datawrangling
+categories: machinelearning
 ---
 
 Here are my notes from the 'Data Analysis with Python' assignment I completed as part of my journey in Coursera's IBM Data Science Professional Certificate. 
