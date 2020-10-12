@@ -11,6 +11,8 @@ header:
 excerpt: >
   Welcome to my Data Science portfolio<br />
   <small><a href="https://aliahhawari.github.io/projects/">See full list of my projects here</a></small>
+intro: 
+  - title: 'Here's just a few:'
 feature_row:
   - image_path: /images/KNN_images/flower-iris2.jpg
     alt: "Project 1"
