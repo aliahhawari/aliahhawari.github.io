@@ -15,9 +15,9 @@ feature_row:
     alt: "House price"
     title: "Predicting house prices using regressions"
     excerpt_separator: "\n---\n"
-    excerpt: "Tools used: Python ||
-              Category: Machine Learning || 
-              Models: Linear and Ridge regression"
+    excerpt:\n Tools used: Python \n
+              Category: Machine Learning \n
+              Models: Linear and Ridge regression\n
     url: "https://aliahhawari.github.io/machinelearning/PythonDataAnalysis"
     btn_label: "Read More"
     btn_class: "btn--primary"
