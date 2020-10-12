@@ -11,7 +11,7 @@ header:
       url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Regressions, Clustering, Classifications and more."
 feature_row:
-  - image_path: /images/LR/houseprices/house-1920.jpg
+  - image_path: /images/LR/houseprice/house-1920.jpg
     alt: "House price"
     title: "Predicting house prices using regressions"
     excerpt: "Tools used: Python || Category: Machine Learning || Models: Linear and Ridge regression"
