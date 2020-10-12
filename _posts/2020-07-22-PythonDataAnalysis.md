@@ -1,6 +1,6 @@
 ---
 title: "Basic Data Analysis using Python"
-date: 2020-07-01
+date: 2020-07-22
 tags: [Python, Data Analysis, Data Wrangling]
 header:
   image: "/images/winter-village.png"
