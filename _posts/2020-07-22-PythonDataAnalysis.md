@@ -6,7 +6,7 @@ header:
   image: "/images/winter-village.png"
 excerpt: "Python, Data Analysis, Data Wrangling"
 mathjax: "true"
-categories: CATEGORY-1 CATEGORY-2
+categories: datawrangling
 ---
 
 Here are my notes from the 'Data Analysis with Python' assignment I completed as part of my journey in Coursera's IBM Data Science Professional Certificate. 
