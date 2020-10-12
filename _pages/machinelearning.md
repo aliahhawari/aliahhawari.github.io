@@ -14,6 +14,7 @@ feature_row:
   - image_path: /images/LR/houseprice/house-1920.jpg
     alt: "House price"
     title: "Predicting house prices using regressions"
+    excerpt_separator: <!--more-->
     excerpt: "Tools used: Python <!--more--> Category: Machine Learning || Models: Linear and Ridge regression"
     url: "https://aliahhawari.github.io/machinelearning/PythonDataAnalysis"
     btn_label: "Read More"
