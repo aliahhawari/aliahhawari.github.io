@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 layout: splash
-permalink: /machinelearning/
+permalink: /machinelearning2/
 header:
   overlay_color: "#012"
   overlay_filter: "0.25"
