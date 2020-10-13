@@ -1,18 +1,14 @@
 ---
-title: "Projects"
+title: "My collection of projects"
 layout: splash
 permalink: /projects/
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/images/banner-doorwhite.jpg"
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  My collection of projects<br />
-  <small>Below are the categories</small>
-intro: 
-  - title: 'My collection of projects'
+  Have a look at the categories below<br />
 feature_row:
   - image_path: images/machinelearning.png
     alt: "Machinelearning"
