@@ -17,7 +17,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
     alt: "Breast cancer project"
-    title: "Is the tumour benign or malignant?"
+    title: "Benign or malignant?"
     excerpt: "Classifying breast cancer data of patients from Winsconsin using KNN."
     url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN"
     btn_label: "Read More"
