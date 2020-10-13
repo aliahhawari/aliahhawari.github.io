@@ -6,13 +6,13 @@ header:
   overlay_color: "#012"
   overlay_filter: "0.25"
   overlay_image: /images/bokeh.jpg
-excerpt: "Data prep"
+excerpt: "Regressions, Clustering, Classifications and more."
 feature_row:
-  - image_path: images/DW_images/path-shortcut.jpg
-    alt: "Data wrangling shortcuts"
-    title: "Shortcuts to prep your data"
-    excerpt: "A compilation of shortcuts for data wrangling process"
-    url: "https://aliahhawari.github.io/datawrangling/ExploratoryDataAnalysis/"
+  - image_path: /images/LR/houseprice/house-1920.jpg
+    alt: "House prices"
+    title: "House prices"
+    excerpt: "Predicting house prices using Linear and Ridge regression models"
+    url: "https://aliahhawari.github.io/machinelearning/PythonDataAnalysis"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
