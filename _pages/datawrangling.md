@@ -19,7 +19,7 @@ feature_row:
     alt: "Breast cancer project"
     title: "Ridge Regression"
     excerpt: "Just my train of thoughts on beginners data analysis with Python"
-    url: "https://aliahhawari.github.io/datawrangling/PythonDataAnalysis/"
+    url: "https://aliahhawari.github.io/foo/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/LR/CC01/bar.jpg
