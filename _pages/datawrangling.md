@@ -16,10 +16,10 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
-    alt: "Breast cancer project"
-    title: "Ridge Regression"
-    excerpt: "Just my train of thoughts on beginners data analysis with Python"
-    url: "https://aliahhawari.github.io/foo/"
+    alt: "COVID-19"
+    title: "COVID-19 analysis"
+    excerpt: "Analysing the relationship between infection and death rates with the well being of countries"
+    url: "https://aliahhawari.github.io/datawrangling/covid19analysis/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/LR/CC01/bar.jpg
