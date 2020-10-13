@@ -6,9 +6,6 @@ header:
   overlay_color: "#012"
   overlay_filter: "0.25"
   overlay_image: /images/bokeh.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
 excerpt: "Regressions, Clustering, Classifications and more."
 feature_row:
   - image_path: /images/LR/houseprice/house-1920.jpg
@@ -34,8 +31,8 @@ feature_row:
 feature_row2:
   - image_path: images/KNN_images/flower-iris2.jpg
     alt: "Iris project"
-    title: "Predicting the species of Iris flowers"
-    excerpt: "Tools used: Python | Category: Machine Learning | Model: KNN Classifier"
+    title: "Iris Classifier"
+    excerpt: "Using KNN Classifier to predict different species of Iris"
     url: "https://aliahhawari.github.io/machinelearning/KNN_iris"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -61,5 +58,3 @@ feature_row2:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
-
-
