@@ -12,6 +12,13 @@ excerpt: >
   Welcome to my Data Science portfolio<br />
   <small><a href="https://aliahhawari.github.io/projects/">See full list of my projects here</a></small>
 feature_row:
+  - image_path: /images/DW/COVID/covid.jpg
+    alt: "Python analysis"
+    title: "COVID-19 analysis"
+    excerpt: "Analysing the relationship between infection rates, death rates and the well being of countries"
+    url: "https://aliahhawari.github.io/datawrangling/covid19analysis/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /images/KNN_images/flower-iris2.jpg
     alt: "Project 1"
     title: "Predicting species of Iris flowers using KNN classifier"
