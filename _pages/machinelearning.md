@@ -17,23 +17,23 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
     alt: "Breast cancer project"
-    title: "Ridge Regression"
-    excerpt: "Just my train of thoughts on beginners data analysis with Python"
-    url: "https://aliahhawari.github.io/datawrangling/PythonDataAnalysis/"
+    title: "Is the tumour benign or malignant?"
+    excerpt: "Classifying breast cancer data of patients from Winsconsin using KNN."
+    url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/LR/CC01/bar.jpg
-    title: "Predicting customer churn"
+    title: "Will the customer stay?"
     excerpt: "Logistic regression model to predict customer behaviour."
     url: "https://aliahhawari.github.io/machinelearning/TelcoCC_LR01/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Machine Learning"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "https://aliahhawari.github.io/foo/"
+  - image_path: images/KNN_images/flower-iris2.jpg
+    alt: "Iris project"
+    title: "Verbosa, Setosa or Versicolor?"
+    excerpt: "Using KNN Classifier to predict different species of Iris"
+    url: "https://aliahhawari.github.io/machinelearning/KNN_iris"
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
