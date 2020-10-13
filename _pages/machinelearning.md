@@ -13,11 +13,8 @@ excerpt: "Regressions, Clustering, Classifications and more."
 feature_row:
   - image_path: /images/LR/houseprice/house-1920.jpg
     alt: "House price"
-    title: "Predicting house prices using regressions"
-    excerpt_separator: "\n---\n"
-    excerpt:"Tools used: Python |||||
-             Category: Machine Learning ||||||
-             Models: Linear and Ridge regression"
+    title: "House Prices"
+    excerpt:"Predicting house prices using Linear and Ridge regression models"
     url: "https://aliahhawari.github.io/machinelearning/PythonDataAnalysis"
     btn_label: "Read More"
     btn_class: "btn--primary"
