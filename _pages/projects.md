@@ -4,7 +4,7 @@ layout: splash
 permalink: /projects/
 header:
   overlay_color: "#5e616c"
-  overlay_image: "/images/technologybanner.jpg"
+  overlay_image: "/images/banner-doorwhite.jpg"
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
