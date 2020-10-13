@@ -9,7 +9,6 @@ toc: true
 toc_label: "Table of contents"
 toc_icon: "cog"
 ---
-# COVID-19 analysis with Python
 by Aliah H.
 
 In this project, I used Python to analyse three datasets:- 1) Global confirmed cases of COVID-19 infection, 2) Global confirmed cases of COVID-19 related deaths and 3) Worldwide happiness report 2020. 
