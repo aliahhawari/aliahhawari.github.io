@@ -6,17 +6,17 @@ header:
   overlay_color: "#012"
   overlay_filter: "0.25"
   overlay_image: /images/bokeh.jpg
-excerpt: "Data prep"
+excerpt: "Data analysis, Data prep, Feature engineering, Feature selection and more"
 feature_row:
   - image_path: images/DW_images/path-shortcut.jpg
     alt: "Data wrangling shortcuts"
-    title: "Shortcuts to prep your data"
+    title: "Data prep shortcuts"
     excerpt: "A compilation of shortcuts for data wrangling process"
     url: "https://aliahhawari.github.io/datawrangling/ExploratoryDataAnalysis/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/DW/COVID/covid.jpg
-    alt: "Breast cancer project"
+    alt: "Python analysis"
     title: "COVID-19 analysis"
     excerpt: "Analysing the relationship between infection rates, death rates and the well being of countries"
     url: "https://aliahhawari.github.io/datawrangling/covid19analysis/"
