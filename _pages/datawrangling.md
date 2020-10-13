@@ -6,11 +6,11 @@ header:
   overlay_color: "#012"
   overlay_filter: "0.25"
   overlay_image: /images/bokeh.jpg
-excerpt: "Data prep"
+excerpt: "Data preprocessing, Feature selection, Feature Engineering and more"
 feature_row:
   - image_path: images/DW_images/path-shortcut.jpg
     alt: "Data wrangling shortcuts"
-    title: "Shortcuts to prep your data"
+    title: "Data prep shortcuts"
     excerpt: "A compilation of shortcuts for data wrangling process"
     url: "https://aliahhawari.github.io/datawrangling/ExploratoryDataAnalysis/"
     btn_label: "Read More"
