@@ -2,6 +2,8 @@
 title: "COVID-19 analysis with Python"
 date: 2020-10-13
 tags: [Data Wrangling, COVID-19, regplot]
+header:
+  image: "/images/DW/COVID/covidbanner.jpg"
 excerpt: "Analysing the relationship between infection and well being of countries"
 mathjax: "true"
 categories: datawrangling
