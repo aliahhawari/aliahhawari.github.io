@@ -19,6 +19,13 @@ feature_row:
     url: "https://aliahhawari.github.io/datawrangling/covid19analysis/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: images/DW/handwashing/handwashing.jpg
+    alt: "Photo by Sharon McCutcheon on Unsplash"
+    title: "Wash your hands."
+    excerpt: "Reanalysing the Dr. Semmelweis' dataset"
+    url: "https://aliahhawari.github.io/datawrangling/handwashing/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /images/KNN_images/pink-ribbon2.jpg
     alt: "Project 2"
     title: "Benign or Malignant?"
@@ -26,13 +33,6 @@ feature_row:
     url: "https://aliahhawari.github.io/machinelearning/Breast_cancer_KNN/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /images/DW_images/path-shortcut.jpg
-    alt: "Shortcuts!"
-    title: "Data prep shortcuts"
-    excerpt: "A compilation of codes often used for data wrangling phase"
-    url: "https://aliahhawari.github.io/datawrangling/ExploratoryDataAnalysis/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more" 
 feature_row1:
   - image_path: images/KNN_images/flower-iris2.jpg
     alt: "Iris project"
