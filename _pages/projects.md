@@ -7,7 +7,7 @@ header:
 excerpt: >
   Have a look at the categories below<br />
 feature_row:
-  - image_path: images/machinelearning.png
+  - image_path: images/machinelearning.jpg
     alt: "Machinelearning"
     title: "Machine Learning"
     excerpt: "Regressions, classifications and more"
