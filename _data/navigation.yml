@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "About me"
-    url: /about/
   - title: "Projects"
     url: /projects/
   - title: "Recent posts"
     url: /recentposts/
+  - title: "About me"
+    url: /about/
   #- title: "CV"
   #  url: /CV/
   #- title: "Other project"
