@@ -8,7 +8,7 @@ categories: datawrangling
 ---
 by Aliah H.
 
-Here is one of the project I recently completed at DataCamp. About the discovery of handwashing! Very apt topic during this pandemic. Here goes: 
+Here is one of the project I recently completed at DataCamp about the discovery of handwashing! Very apt topic during this pandemic. Here goes: 
 
 ## 1. Meet Dr. Ignaz Semmelweis
 <p><img style="float: left;margin:5px 20px 5px 1px" src="https://assets.datacamp.com/production/project_20/img/ignaz_semmelweis_1860.jpeg"></p>
