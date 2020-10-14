@@ -9,7 +9,7 @@ header:
 excerpt: "Data analysis, Data prep, Feature engineering, Feature selection and more"
 feature_row:
   - image_path: images/DW/handwashing/handwashing.jpg
-    alt: "Childbed fever?"
+    alt: "Photo by Sharon McCutcheon on Unsplash"
     title: "Wash your hands."
     excerpt: "Reanalysing the Dr. Semmelweis' dataset"
     url: "https://aliahhawari.github.io/datawrangling/handwashing/"
